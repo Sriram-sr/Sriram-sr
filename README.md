@@ -14,7 +14,7 @@ I'm <strong>Sriram </strong>, Software Engineer and a computer science enthusias
 
 🔴 <strong>Frameworks</strong>
 
-[![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
 🔴 <strong>Libraries</strong>
 
