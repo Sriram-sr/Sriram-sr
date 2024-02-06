@@ -1,5 +1,5 @@
 ### Hi there 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
-I'm <strong>Sriram </strong>, Software Engineer and a computer science enthusiast.
+I'm <strong>Sriram </strong>, Software Engineer.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
