@@ -3,7 +3,7 @@ I'm <strong>Sriram </strong>, Software Engineer.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Linkedin: Sriram](https://img.shields.io/badge/-Sriram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sriram/)](https://www.linkedin.com/in/sri-ram-5711121ba/)
+[![Linkedin: Sriram](https://img.shields.io/badge/-Sriram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sriram/)](https://www.linkedin.com/in/sriramsr90/)
 
 ## Skills and Experience
 
